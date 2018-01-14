@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="youtube_api_developer_key" templateMergeStrategy="preserve" translatable="false">
+    AIzaSyAykj8ihPdA0BohtCloeH4a9gX1B-Ts4Xg
+  </string>
+</resources>

@@ -33,6 +33,7 @@ configure([project('app')]) {
     androidTestRunnerVersion = '1.0.1'
     androidTestEspressoVersion = '3.0.1'
     youtubeApiVersion = 'v3-rev189-1.23.0'
+    daggerVersion = '2.13'
   }
 }
 
